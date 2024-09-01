@@ -10,7 +10,7 @@ public class Test {
         System.out.println(list);
 
         Map<String, String> nameMap = new HashMap<>();
-        nameMap.put("社長", "小林さん");x
+        nameMap.put("社長", "小林さん");
         nameMap.put("会社員", "友利奈緒");
 
         for(Map.Entry<String, String> entry : nameMap.entrySet()){
